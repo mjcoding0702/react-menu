@@ -21,7 +21,7 @@ Through this project, students will learn:
 
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/react-menu-demo.git
+git clone https://github.com/mjcoding0702/react-menu-demo.git
 cd react-menu-demo
 ```
 
